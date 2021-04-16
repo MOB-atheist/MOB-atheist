@@ -1,1 +1,1 @@
-<img alt="lofiart" src="./top.gif" width='40' align="center"/>)
+<img alt="lofiart" src="./top.gif" width='400' align="center"/>
