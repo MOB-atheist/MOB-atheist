@@ -1,11 +1,11 @@
 
 
-<img alt="lofiart" src="./top.gif" align="center" width="100%" class="border rounded-2 mb-2"/>
+<img alt="lofiart" src="./top.gif" align="center" width="100%" class="border rounded-3 p-2 mb-2" />
 
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="100%" class="border rounded-2 mb-2"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="100%" class="border rounded-3 p-2 mb-2"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="100%" class="border rounded-2 mb-2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="100%" class="border rounded-3 p-2 mb-2"/>
 
 <br></br>
 
