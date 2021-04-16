@@ -81,8 +81,8 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&</a>logoColor=white
-    "/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
 
 <br></br>
 
