@@ -1,6 +1,6 @@
 
 
-<img alt="lofiart" src="./top.gif" align="center" style="width:100%; border-radius:20px;"/>
+<img alt="lofiart" src="./top.gif" align="center" width="100%" style="width:100%; border-radius:20px;"/>
 
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="100%" style="width:100%; border-radius:20px;padding-top:5px" />
