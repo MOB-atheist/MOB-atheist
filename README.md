@@ -3,9 +3,9 @@
 <img alt="lofiart" src="./top.gif" align="center" style="width:100%; border-radius:20px;"/>
 
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" style="width:100%; border-radius:20px;padding-top:5px" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="100%" style="width:100%; border-radius:20px;padding-top:5px" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" style="width:100%; border-radius:20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="100%"  style="width:100%; border-radius:20px;" />
 
 <br></br>
 
