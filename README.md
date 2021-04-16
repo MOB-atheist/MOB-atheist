@@ -1,13 +1,15 @@
-### <img alt="lofiart" src="./top.gif" align="center" style="width:100%;"/>
+<div>
+
+### <img alt="lofiart" src="./top.gif" align="center" style="width:100%; border-radius:20px;"/>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" style="width:100%; border-radius:20px;" />
 
-</br>
+<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" style="width:100%; border-radius:20px;" />
+
+<br></br>
 
 ## My knoledge
-
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +37,7 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-</br>
+<br></br>
 
 ## &nbsp;How to find me:
 
@@ -65,7 +67,8 @@
 
 <br></br>
 
-## Wanna know the music that moves me?
+## Wanna know some good music?
+<span style="opacity:5%">at least i think they are<span>
 
 <a href="https://open.spotify.com/user/pabsk?si=726b37c1dc594e15" target="blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -82,3 +85,5 @@
 <a href="https://soundcloud.com/mob_atheist" targe="blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </a>
+
+</div>
