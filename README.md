@@ -1,9 +1,9 @@
 <img alt="lofiart" src="./cut.gif" width="100%" />
 
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="100%"/>
+<div width="100%">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
+</div>
 
 <br></br>
 
@@ -112,21 +112,6 @@
 
 <br></br>
 
-## Wanna know some good music?
-<span style="opacity:5%">at least i think they are<span>
-
-<a href="https://open.spotify.com/user/pabsk?si=726b37c1dc594e15" target="blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<a>
-
-<a href="https://www.deezer.com/en/profile/2183338328" target="blank">
-    <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
-</a>
-
-<a href="https://music.youtube.com/channel/UCUY-q1VSiDVs8Xwax8gqZUQ" targe="blank">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-</a>
-
-<a href="https://soundcloud.com/mob_atheist" targe="blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
-</a>
+## Badges
+    
+<a href="https://app.daily.dev/pabskstorm"><img src="https://api.daily.dev/devcards/508dad1f19e94b08b11862c0a1331165.png?r=a88" width="20%" alt="pablo justino's Dev Card"/></a>
