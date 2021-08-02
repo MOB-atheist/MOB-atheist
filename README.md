@@ -7,7 +7,7 @@
 </p>
 
 <br></br>
-
+<!-- 
 ## My knowledge
 <a href="#">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -79,9 +79,9 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
-<br></br>
+<br></br> -->
 
-## &nbsp;How to find me:
+<!-- ## &nbsp;How to find me:
 
 <a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -107,8 +107,8 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<br></br>
+<br></br> -->
 
-## Badges
+<!-- ## Badges
     
-<a href="https://app.daily.dev/pabskstorm"><img src="https://api.daily.dev/devcards/508dad1f19e94b08b11862c0a1331165.png?r=a88" width="20%" alt="pablo justino's Dev Card"/></a>
+<a href="https://app.daily.dev/pabskstorm"><img src="https://api.daily.dev/devcards/508dad1f19e94b08b11862c0a1331165.png?r=a88" width="20%" alt="pablo justino's Dev Card"/></a> -->
