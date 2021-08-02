@@ -66,6 +66,6 @@
   
 <p align="center">
     <a href="https://app.daily.dev/pabskstorm">
-        <img src="dailydev_aughust_1st.png" width="20%" alt="pablo justino's Dev Card"/>
+        <img src="dailydev-aughust-1st.png" width="20%" alt="pablo justino's Dev Card"/>
     </a>
 </p>
