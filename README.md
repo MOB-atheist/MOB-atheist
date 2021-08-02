@@ -9,108 +9,63 @@
 </p>
 
 <br></br>
-<!-- 
-## My knowledge
-<a href="#">
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> 
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
+<p align="center">
+        <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=9F0000&logoColor=ffffff" />
+        <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=9F0000&logoColor=ffffff" />
+        <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=9F0000&logoColor=ffffff" />
+        <img src="https://img.shields.io/static/v1?label=&message=VUE.js&style=for-the-badge&logo=vue.js&color=9F0000&logoColor=ffffff" />
+        <img src="https://img.shields.io/static/v1?label=&message=ANGULAR.js&style=for-the-badge&logo=angular&color=9F0000&logoColor=ffffff" />
+        <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=9F0000&logoColor=ffffff" />
+</p>
 
-<br></br> -->
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=EXPRESS.js&style=for-the-badge&logo=express&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=PHP&style=for-the-badge&logo=php&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=MYSQL&style=for-the-badge&logo=mysql&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=MONGODB&style=for-the-badge&logo=mongodb&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=DOCKER&style=for-the-badge&logo=docker&color=9F0000&logoColor=ffffff" />
+</p>
 
-<!-- ## &nbsp;How to find me:
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=&message=REACT_ROUTER&style=for-the-badge&logo=react-router&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=C_Sharp&style=for-the-badge&logo=Csharp&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=NPM&style=for-the-badge&logo=npm&color=9F0000&logoColor=ffffff" />
+</p>
 
-<a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=&message=HTML|5&style=for-the-badge&logo=html5&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=CSS|3&style=for-the-badge&logo=css3&color=9F0000&logoColor=ffffff" />
+    <img src="https://img.shields.io/static/v1?label=&message=SASS&style=for-the-badge&logo=sass&color=9F0000&logoColor=ffffff" />
+</p>
 
-<a href="https://www.instagram.com/pablogjustino/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<h3><p align="center">- How to find me -</p></h3>
 
-<a href="https://twitter.com/pabsk1000" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+<p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&color=9F0000&logoColor=ffffff" />
+    </a>
+    <a href="https://www.instagram.com/pablogjustino/" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=9F0000&logoColor=ffffff" />
+    </a>
+    <a href="https://twitter.com/pabsk1000" target="blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=9F0000&logoColor=ffffff" />
+    </a>
+    <a href="https://www.linkedin.com/in/pablojustino-dev/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=9F0000&logoColor=ffffff" />
+    </a>
+    <a href="https://www.reddit.com/user/pabskstorm" targe="blank">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&color=9F0000&logoColor=ffffff" />
+    </a>
+    <a href="https://medium.com/@pabskne" targe="blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&color=9F0000&logoColor=ffffff" />
+    </a>
+</p>
 
-<a href="https://www.linkedin.com/in/pablojustino-dev/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.reddit.com/user/pabskstorm" targe="blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@pabskne" targe="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<br></br> -->
-
-<!-- ## Badges
-    
-<a href="https://app.daily.dev/pabskstorm"><img src="https://api.daily.dev/devcards/508dad1f19e94b08b11862c0a1331165.png?r=a88" width="20%" alt="pablo justino's Dev Card"/></a> -->
+<br></br>
+  
+<p align="center">
+    <a href="https://app.daily.dev/pabskstorm">
+        <img src="dailydev_aughust_1st.png" width="20%" alt="pablo justino's Dev Card"/>
+    </a>
+</p>
