@@ -64,8 +64,6 @@
 
 <br></br>
 
-# USE THAT SHIT IN A COMPUTER, BITCH, FUCK MOBILE
-
 <p align="center">
     <a href="https://app.daily.dev/pabskstorm">
         <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="25%"/>
