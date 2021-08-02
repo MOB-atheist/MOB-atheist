@@ -1,15 +1,14 @@
 <p align="center">
-    <img alt="lofiart" src="./cut.gif" width="96%" />
+    <img alt="lofiart" src="https://im6.ezgif.com/tmp/ezgif-6-ebfc6fe4fb05.gif" width="100%" />
 </p>
 
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true" width="48%"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" width="100%"/>
 </p>
 
 <br></br>
 
-## My knoledge
+## My knowledge
 <a href="#">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
