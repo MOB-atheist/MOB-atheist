@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="lofiart" src="https://im6.ezgif.com/tmp/ezgif-6-ebfc6fe4fb05.gif" width="100%" />
+    <img alt="lofiart" src="gif2.gif" width="100%" />
 </p>
 
 <p align="center">
