@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" width="60%"/>
-</p>
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" height="100%" width="90%" />
+</div>
 
 <br></br>
 <p align="center">
@@ -63,9 +63,11 @@
 </p>
 
 <br></br>
-  
+
+# USE THAT SHIT IN A COMPUTER, BITCH, FUCK MOBILE
+
 <p align="center">
     <a href="https://app.daily.dev/pabskstorm">
-        <img src="dailydev-aughust-1st.png" width="20%" alt="pablo justino's Dev Card"/>
+        <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="25%"/>
     </a>
 </p>
