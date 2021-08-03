@@ -10,6 +10,7 @@
 </div>
 
 <br></br>
+<h3><p align="center">𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤</p></h3>
 <p align="center">
         <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=9F0000&logoColor=ffffff" />
         <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=9F0000&logoColor=ffffff" />
@@ -40,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=SASS&style=for-the-badge&logo=sass&color=9F0000&logoColor=ffffff" />
 </p>
 
-<h3><p align="center">- How to find me -</p></h3>
+<h3><p align="center">ℍ𝕠𝕨 𝕥𝕠 𝕗𝕚𝕟𝕕 𝕞𝕖</p></h3>
 
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
@@ -63,8 +64,7 @@
     </a>
 </p>
 
-<br></br>
-
+<h3><p align="center">𝔹𝕒𝕕𝕘𝕖𝕤</p></h3>
 <p align="center">
     <a href="https://app.daily.dev/pabskstorm">
         <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="250"/>
