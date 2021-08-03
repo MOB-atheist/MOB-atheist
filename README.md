@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" height="100%" width="90%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&theme=midnight-purple&hide_border=true&bg_color=ffffff00"  width="50%" />
 </div>
 
 <br></br>
