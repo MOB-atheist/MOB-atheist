@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&title_color=9F0000&text_color=9F0000&icon_color=9F0000&border_color=9F0000&bg_color=ffffff00&hide_border=true"  width="40%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=true&background=00000000&border=9F0000&stroke=9F0000&ring=9F0000&fire=9F0000&currStreakNum=9F0000&sideNums=9F0000&currStreakLabel=9F0000&sideLabels=9F0000&dates=9F0000)](https://git.io/streak-stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&title_color=9F0000&text_color=9F0000&icon_color=9F0000&border_color=9F0000&bg_color=ffffff00&hide_border=true"  width="400" />
 </div>
 
 <br></br>
@@ -67,6 +67,6 @@
 
 <p align="center">
     <a href="https://app.daily.dev/pabskstorm">
-        <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="25%"/>
+        <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="250"/>
     </a>
 </p>
