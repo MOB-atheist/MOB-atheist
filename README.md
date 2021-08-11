@@ -63,10 +63,3 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
 </p>
-
-<h3><p align="center">𝔹𝕒𝕕𝕘𝕖𝕤</p></h3>
-<p align="center">
-  <a href="https://app.daily.dev/pabskstorm">
-    <img src="dailydev-aughust-1st.png" alt="pablo justino's Dev Card" width="150"/>
-  </a>
-</p>
