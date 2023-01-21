@@ -47,18 +47,18 @@
   <a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
-  <a href="https://www.instagram.com/pablogjustino/" target="blank">
+  <a href="https://www.instagram.com/p4bl0.js/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
-  <a href="https://twitter.com/pabsk1000" target="blank">
+  <a href="https://twitter.com/wannabetravele4" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
   <a href="https://www.linkedin.com/in/pablojustino-dev/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
-  <a href="https://www.reddit.com/user/pabskstorm" targe="blank">
+  <!--<a href="https://www.reddit.com/user/pabskstorm" targe="blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&labelColor=9F0000&color=730000&logoColor=ffffff" />
-  </a>
+  </a>-->
   <a href="https://medium.com/@pabskne" targe="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&labelColor=9F0000&color=730000&logoColor=ffffff" />
   </a>
