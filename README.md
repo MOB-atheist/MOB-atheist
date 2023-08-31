@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.behance.net/gallery/116783825/CATIRA-OSCURA-VIDEO">
-    <img alt="Steampunk skull smoking a pipe" src="STEAMPUNK_SKULL.jpg" width="100%" />
+    <img alt="Steampunk skull smoking a pipe" src="CYBERPUNK_SKULL.jpg" width="100%" />
   </a>
 </p>
 
