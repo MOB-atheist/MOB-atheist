@@ -11,7 +11,7 @@ BAA884
 </div>
 
 <br></br>
-<h3><p align="center">𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤</p></h3>
+<h3><p align="center">ᗰƳ ᔕᛕᎥᒪᒪᔕ</p></h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&labelColor=7C5F38&color=BAA884&logoColor=000&textColor=000" />
   <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&labelColor=7C5F38&color=BAA884&logoColor=000" />
@@ -42,7 +42,7 @@ BAA884
   <img src="https://img.shields.io/static/v1?label=&message=SASS&style=for-the-badge&logo=sass&labelColor=7C5F38&color=BAA884&logoColor=000" />
 </p>
 
-<h3><p align="center" style="font-family: 'Montserrat', sans-serif;">How to find me</p></h3>
+<h3><p align="center">ᕼᗝᗯ 丅ᗝ ᖴᎥᑎᗪ ᗰᗴ</p></h3>
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100004401702577" arget="blank">
