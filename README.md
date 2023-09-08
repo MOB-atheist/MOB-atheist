@@ -3,15 +3,9 @@
     <img alt="Steampunk skull smoking a pipe" src="CYBERPUNK_SKULL.jpg" width="100%" />
   </a>
 </p>
-BAA884
-7C5F38
 <div align="center">
-  <div style="float: left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=false&background=7C5F38&border=000&stroke=7C5F38&ring=000&fire=BAA884&currStreakNum=000&sideNums=000&currStreakLabel=BAA884&sideLabels=BAA884&dates=ffffff)](https://git.io/streak-stats" width="450vw"/>
-  </div>
-  <div style="float: left">
-    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&title_color=7C5F38&text_color=BAA884&icon_color=BAA884&border_color=7C5F38&bg_color=ffffff00&hide_border=true"  width="450vw" />
-  </div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MOB-atheist&hide_border=false&background=7C5F38&border=000&stroke=7C5F38&ring=000&fire=BAA884&currStreakNum=000&sideNums=000&currStreakLabel=BAA884&sideLabels=BAA884&dates=ffffff)](https://git.io/streak-stats" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&title_color=7C5F38&text_color=BAA884&icon_color=BAA884&border_color=7C5F38&bg_color=ffffff00&hide_border=true"  width="45%" />
 </div>
 
 <br></br>
