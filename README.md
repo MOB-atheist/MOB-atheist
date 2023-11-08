@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MOB-atheist&count_private=true&title_color=7C5F38&text_color=BAA884&icon_color=BAA884&border_color=7C5F38&bg_color=ffffff00&hide_border=true"  width="45%" />
 </div>
 
-<br></br>
+<br>
 <h3><p align="center">ᗰƳ ᔕᛕᎥᒪᒪᔕ</p></h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&labelColor=7C5F38&color=BAA884&logoColor=000&textColor=000" />
